@@ -1,2 +1,3 @@
-# developer-suite
-Personal developer suite and workflow configurations
+# Developer Suite
+
+A modular suite of developer tools, specifications, and configurations.
